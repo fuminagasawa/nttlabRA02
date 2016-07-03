@@ -1,0 +1,6 @@
+c:\users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\bin\Debug\nttlabRA02.exe.config
+c:\users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\bin\Debug\nttlabRA02.exe
+c:\users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\bin\Debug\nttlabRA02.pdb
+c:\users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\obj\Debug\nttlabRA02.csprojResolveAssemblyReference.cache
+c:\users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\obj\Debug\nttlabRA02.exe
+c:\users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\obj\Debug\nttlabRA02.pdb

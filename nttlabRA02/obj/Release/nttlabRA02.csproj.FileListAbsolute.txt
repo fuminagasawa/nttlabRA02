@@ -1,0 +1,8 @@
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\bin\Release\nttlabRA02.exe.config
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\bin\Release\nttlabRA02.exe
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\bin\Release\nttlabRA02.pdb
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\obj\Release\nttlabRA02.exe
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\nttlabRA02\obj\Release\nttlabRA02.pdb
+C:\Users\tamanoti\Documents\GitHub\nttlabRA02\nttlabRA02\bin\Release\nttlabRA02.exe.config
+C:\Users\tamanoti\Documents\GitHub\nttlabRA02\nttlabRA02\obj\Release\nttlabRA02.exe
+C:\Users\tamanoti\Documents\GitHub\nttlabRA02\nttlabRA02\obj\Release\nttlabRA02.pdb

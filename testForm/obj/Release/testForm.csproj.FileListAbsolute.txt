@@ -1,0 +1,8 @@
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\testForm\bin\Release\testForm.exe.config
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\testForm\bin\Release\testForm.exe
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\testForm\bin\Release\testForm.pdb
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\testForm\obj\Release\testForm.Form1.resources
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\testForm\obj\Release\testForm.Properties.Resources.resources
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\testForm\obj\Release\testForm.csproj.GenerateResource.Cache
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\testForm\obj\Release\testForm.exe
+C:\Users\tamanoti\documents\visual studio 2015\Projects\nttlabRA02\testForm\obj\Release\testForm.pdb
